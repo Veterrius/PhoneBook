@@ -1,6 +1,5 @@
 # Example Site
  
- This is a simple readme
+ *This is a simple readme
  
- Photo:
- !(D:\Downloads\kasumi_yoshizawa_ending_credits_wallpaper_by_rlasukabaka_ddvinb1-fullview.jpg)
+ ![test image](http://wordpress.artificialeyeclinic.com/wp-content/uploads/2015/06/jbc1e_large.jpg)
